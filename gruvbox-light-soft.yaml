@@ -1,5 +1,7 @@
 scheme: "Gruvbox light, soft"
 author: "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)"
+variant: "base64"
+
 base00: "f2e5bc" # ----
 base01: "ebdbb2" # ---
 base02: "d5c4a1" # --
